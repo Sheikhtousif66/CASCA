@@ -1,0 +1,77 @@
+{
+  "semantic_memory": {
+    "user": {
+      "identity": {
+        "name": "Sheikh Tousif",
+        "degree": "MCA Student",
+        "institution": "Assam Don Bosco University"
+      },
+      "goals": {
+        "career": "Software Engineer",
+        "project": "Build CASCA"
+      },
+      "preferences": {
+        "communication_style": "Direct and practical"
+      }
+    },
+    "casca": {
+      "identity": {
+        "name": "CASCA",
+        "type": "Offline Personal AI Assistant",
+        "personality": "Calm intelligent slightly witty"
+      },
+      "purpose": "Provide privacy preserving intelligent assistance.",
+      "objectives": [
+        "Develop offline AI assistant",
+        "Enable voice interaction",
+        "Provide contextual memory",
+        "Ensure on-device privacy",
+        "Support modular architecture"
+      ],
+      "architecture": {
+        "input": "Speech and text",
+        "reasoning": "Local language model",
+        "memory": "Selective persistent memory",
+        "output": "Voice synthesis",
+        "emotion": "Emotion-aware responses"
+      },
+      "future_scope": [
+        "Continual learning",
+        "Graphical interface",
+        "Advanced emotion recognition"
+      ]
+    }
+  },
+  "episodic_memory": [
+    {
+      "memory": "goals"
+    },
+    {
+      "memory": "objectives"
+    },
+    {
+      "memory": "great"
+    },
+    {
+      "memory": "i have an interview today at echoboom. for the role of business associate"
+    },
+    {
+      "memory": "SAS company"
+    },
+    {
+      "memory": "SaaS"
+    },
+    {
+      "memory": "your objectives??"
+    },
+    {
+      "memory": "biryani"
+    },
+    {
+      "memory": "hello"
+    },
+    {
+      "memory": "objectives casca"
+    }
+  ]
+}
